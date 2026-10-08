@@ -304,7 +304,7 @@ This quality score contributes 15% to the final ranking.
 
 
 
-The project uses course information derived from the \*\*SNU B.Tech CSE curriculum/prospectus data\*\*.
+The project uses course information derived from the \*\* B.Tech CSE curriculum/prospectus data\*\*.
 
 
 
@@ -1190,21 +1190,12 @@ The recommendation pipeline, dataset processing, evaluation setup, and applicati
 
 
 
-\## 👥 Team
+
 
 
 
 \*\*ElectiveLens — IR Hackathon / CSD358\*\*
 
-
-
-| Contributor  | Role                                        |
-
-| ------------ | ------------------------------------------- |
-
-| Kriti Sharma | Development, IR pipeline, frontend, testing |
-
-| Aryan Mittal | Development and project collaboration       |
 
 
 
