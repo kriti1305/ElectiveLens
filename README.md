@@ -7,6 +7,8 @@
 The system analyzes a student's profile and compares it with available elective subjects using **TF-IDF text representation**, **Cosine Similarity**, and **Jaccard Similarity** to generate relevant recommendations.
 
 ---
+[🔗 Live Demo](https://electivelens-k.streamlit.app/)
+---
 
 ## 🚀 Features
 
